@@ -66,11 +66,11 @@ The dashboard helps organizations monitor key performance indicators (KPIs), tra
 
 ---
 
-## 📈 Sample KPI (DAX)
-```DAX
-Profitability Ratio = 
-DIVIDE(SUM(Stakeholder[Profit]), SUM(Stakeholder[Revenue]), 0)
-
+## ✅ Advantages
+✔ Centralized reporting  
+✔ Real-time performance tracking  
+✔ Improved decision-making  
+✔ Interactive and user-friendly interface 
 
 ---
 
