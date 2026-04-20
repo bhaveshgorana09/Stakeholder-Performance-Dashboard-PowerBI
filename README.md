@@ -40,6 +40,13 @@ The dashboard helps organizations monitor key performance indicators (KPIs), tra
    - Interactive dashboards with KPIs, charts, slicers, and filters
 
 ---
+  
+## 🖼️ Dashboard Preview
+> *(<img width="1275" height="723" alt="PROJECT" src="https://github.com/user-attachments/assets/e089090a-5897-4301-b678-ef78c4288c44" />
+)*
+
+
+---
 
 ## 📊 Key Features
 - Stakeholder profitability analysis  
@@ -50,7 +57,33 @@ The dashboard helps organizations monitor key performance indicators (KPIs), tra
 
 ---
 
+## 🔄 Development Workflow
+1️⃣ Data Collection  
+2️⃣ Data Cleaning  
+3️⃣ Data Modeling  
+4️⃣ Visualization Design  
+5️⃣ Dashboard Integration  
+
+---
+
 ## 📈 Sample KPI (DAX)
 ```DAX
 Profitability Ratio = 
 DIVIDE(SUM(Stakeholder[Profit]), SUM(Stakeholder[Revenue]), 0)
+
+
+---
+
+## 👨‍💻 Author
+
+**Bhavesh Gorana**  
+🎓 B.Tech Data Science (3rd Year)  
+📊 Aspiring Data Analyst  
+
+🔗 LinkedIn: https://www.linkedin.com/in/bhavesh-gorana-80544a291/
+💻 GitHub: https://github.com/bhaveshgorana09  
+
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ and connect with me!
