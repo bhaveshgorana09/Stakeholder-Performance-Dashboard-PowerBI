@@ -55,6 +55,10 @@ The dashboard helps organizations monitor key performance indicators (KPIs), tra
 Profitability Ratio = 
 DIVIDE(SUM(Stakeholder[Profit]), SUM(Stakeholder[Revenue]), 0)
 
+
+---
+
+
 ## 👨‍💻 Author
 
 **Bhavesh Gorana**  
