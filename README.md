@@ -42,8 +42,7 @@ The dashboard helps organizations monitor key performance indicators (KPIs), tra
 ---
   
 ## 🖼️ Dashboard Preview
-> *(<img width="1275" height="723" alt="PROJECT" src="https://github.com/user-attachments/assets/e089090a-5897-4301-b678-ef78c4288c44" />
-)*
+<img width="1275" height="723" alt="PROJECT" src="https://github.com/user-attachments/assets/e089090a-5897-4301-b678-ef78c4288c44" />
 
 
 ---
