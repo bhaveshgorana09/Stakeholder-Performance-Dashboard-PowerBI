@@ -54,3 +54,12 @@ The dashboard helps organizations monitor key performance indicators (KPIs), tra
 ```DAX
 Profitability Ratio = 
 DIVIDE(SUM(Stakeholder[Profit]), SUM(Stakeholder[Revenue]), 0)
+
+## 👨‍💻 Author
+
+**Bhavesh Gorana**  
+🎓 B.Tech Data Science (3rd Year)  
+📊 Aspiring Data Analyst  
+
+🔗 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/bhavesh-gorana-80544a291/)  
+💻 GitHub: [https://github.com/your-username](https://github.com/bhaveshgorana09)  
